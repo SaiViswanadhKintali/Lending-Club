@@ -64,4 +64,4 @@ The data set is a csv file with the loan data for the Lending Club. Filename - "
 
 ## Acknowledgements
 
-Owned by Sai Viswanadh Kintali & Sanskriti Agarwal 
+Created & Owned by Sai Viswanadh Kintali & Sanskriti Agarwal 
