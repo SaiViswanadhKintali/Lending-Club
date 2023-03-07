@@ -13,7 +13,7 @@
 
 ### Project Statement
 
-The agenda of this project is to identify the driving factors to flag a defaulted loans which are major source of loss for the company.
+Identify the driving factors to flag defaulted loans, which may lead to a financial loss for the company.
 
 ### Project Background
 
