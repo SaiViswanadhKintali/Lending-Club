@@ -36,19 +36,13 @@ The data set is a csv file with the loan data for the Lending Club. Filename - "
 
 ## Conclusions
 
-- Major Driving factor which can be used to predict the chance of defaulting and avoiding Credit Loss:
-  1. DTI
-  2. Grades
-  3. Verification Status
-  4. Annual income
-  5. Pub_rec_bankruptcies
-- Other considerations for 'defaults' :
-  1. Burrowers from large urban cities like california, new york, texas, florida etc.
-  2. Burrowers having annual income in the range 50000-100000.
-  3. Burrowers having Public Recorded Bankruptcy.
-  4. Burrowers with least grades like E,F,G which indicates high risk.
-  5. Burrowers with very high Debt to Income value.
-  6. Burrowers with working experience 10+ years.
+1. Lending club Should consider/ focus more on DTI during the loan process. As Charge-off loan% is increasing with the increase in DTI ratio.
+2. Majority of the loans which are defaulted are from grades B, C ,D. So loans under these categories need more focus.
+3. Loans for Small business/ Renewable Energy have high charge-off rate. So loans for these purposes need more focus.
+4. Loans having higher interest rates have more defaulters. Hence, check the background of applicant thoroughly , if the interest rate is high.
+5. Cities like CA, NY which high number of loans as well as high charged-off/ defaulted loans.
+6. The charged-off rate is very high in long-term loans (60 months), almost double to short-term loans. So Long term loans have high risk.
+7. Clients with Bankruptcies have a high chance of default/ Charged-off loan.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -58,7 +52,6 @@ The data set is a csv file with the loan data for the Lending Club. Filename - "
 - NumPy - version 1.20.3
 - Seaborn - version 0.11.2
 - MatplotLib - version 3.4.3
-- Plotly - version 5.7.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
