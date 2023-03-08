@@ -48,10 +48,11 @@ The data set is a csv file with the loan data for the Lending Club. Filename - "
 
 ## Technologies Used
 
-- Pandas - version 1.3.4
-- NumPy - version 1.20.3
+- Pandas - version 1.4.2
+- NumPy - version 1.21.5
 - Seaborn - version 0.11.2
-- MatplotLib - version 3.4.3
+- MatplotLib - version 3.5.1
+- plotly - version 5.6.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
